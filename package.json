@@ -1,0 +1,12 @@
+{
+    "name": "fiber-tree",
+    "version": "0.0.1",
+    "dependencies": {
+        "fibers": "1.0.x",
+        "coffee-script": "1.7.x"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.4.x"
+    }
+}
